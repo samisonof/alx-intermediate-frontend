@@ -1,0 +1,8 @@
+# Step 1: Create directory
+mkdir 0x03-sass_scss
+
+# Step 2: Open existing "alx-intermediate-frontend" repo 
+cd alx-intermediate-frontend/0x03-sass_scss
+
+# Step 3: Install SASS version 3.7.4
+npm install sass -v 3.7.4
